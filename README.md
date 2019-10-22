@@ -10,7 +10,7 @@ Status: To Do
 3. psioniq File Header
 4. Linux Themes for VS Code
 5. setting.json:
-
+```json
     {	"python.pythonPath": "G:\\P4V\\DevLine\\python-3.7.2.amd64",
         "workbench.statusBar.visible": true,
         "editor.renderWhitespace": "all",
@@ -82,7 +82,7 @@ Status: To Do
     	},
     	"dart.flutterSdkPath": "G:\\__RandD\\Flutter\\flutter",
     }
-
+```
 # Additional
 
 1. Dart
